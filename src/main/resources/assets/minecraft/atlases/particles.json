@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "biomeatmosphere:particle/mote",
+      "sprite": "biomeatmosphere:mote"
+    }
+  ]
+}

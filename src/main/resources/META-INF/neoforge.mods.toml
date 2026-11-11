@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mixins]]
+config="biomeatmosphere.mixins.json"
+
+[[mods]]
+modId="biomeatmosphere"
+version="1.0.0"
+displayName="Biome Atmosphere"
+authors="You"
+description='''
+Лёгкая атмосфера по биомам: туман по биому, времени и погоде, оттенки неба и воды,
+частицы в воздухе (пыльца, пыль, снег, светлячки), мягкая цветокоррекция и свет от предметов в руках. Только клиент.
+'''
+
+[[dependencies.biomeatmosphere]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.biomeatmosphere]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="CLIENT"

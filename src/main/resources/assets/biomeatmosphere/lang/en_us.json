@@ -1,0 +1,15 @@
+{
+  "biomeatmosphere.configuration.title": "Biome Atmosphere",
+  "biomeatmosphere.configuration.fogEnabled": "Fog",
+  "biomeatmosphere.configuration.fogStrength": "Fog strength",
+  "biomeatmosphere.configuration.skyEnabled": "Sky and horizon tint",
+  "biomeatmosphere.configuration.skyStrength": "Sky tint strength",
+  "biomeatmosphere.configuration.waterEnabled": "Water tint",
+  "biomeatmosphere.configuration.waterStrength": "Water tint strength",
+  "biomeatmosphere.configuration.particlesEnabled": "Ambient particles",
+  "biomeatmosphere.configuration.particleDensity": "Particle density",
+  "biomeatmosphere.configuration.gradingEnabled": "Color grading",
+  "biomeatmosphere.configuration.gradingStrength": "Color grading strength",
+  "biomeatmosphere.configuration.dynamicLightsEnabled": "Dynamic light from held items",
+  "biomeatmosphere.configuration.dynamicLightsMaxLevel": "Held light max brightness"
+}

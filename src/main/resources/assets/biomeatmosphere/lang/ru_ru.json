@@ -1,0 +1,15 @@
+{
+  "biomeatmosphere.configuration.title": "Biome Atmosphere",
+  "biomeatmosphere.configuration.fogEnabled": "Туман",
+  "biomeatmosphere.configuration.fogStrength": "Сила тумана",
+  "biomeatmosphere.configuration.skyEnabled": "Оттенок неба и горизонта",
+  "biomeatmosphere.configuration.skyStrength": "Сила оттенка неба",
+  "biomeatmosphere.configuration.waterEnabled": "Оттенок воды",
+  "biomeatmosphere.configuration.waterStrength": "Сила оттенка воды",
+  "biomeatmosphere.configuration.particlesEnabled": "Частицы в воздухе",
+  "biomeatmosphere.configuration.particleDensity": "Плотность частиц",
+  "biomeatmosphere.configuration.gradingEnabled": "Цветокоррекция",
+  "biomeatmosphere.configuration.gradingStrength": "Сила цветокоррекции",
+  "biomeatmosphere.configuration.dynamicLightsEnabled": "Свет от предметов в руках",
+  "biomeatmosphere.configuration.dynamicLightsMaxLevel": "Макс. яркость света из руки"
+}
